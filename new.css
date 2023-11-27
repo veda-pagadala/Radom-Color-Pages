@@ -1,0 +1,35 @@
+main {
+    min-height: 100vh;
+    display: grid;
+    place-items:center;
+}
+.container{
+    text-align: center;
+
+}
+.container h2{
+    background-color: black;
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+    margin-bottom: 28px;
+
+
+}
+.btn-hero{
+    text-transform:uppercase;
+    background: transparent;
+    background-color: aqua;
+    color: blue;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor:pointer;
+    border: 2px solid blueviolet;
+    padding: 8px;
+}
+.btn-hero:hover {
+    color: white;
+    background: violet;
+
+
+}
