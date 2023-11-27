@@ -1,7 +1,8 @@
 "use strict";
 
-var colors = ["white ", "red", "blue", "yellow", "violet"];
+// tesing 
 
+var colors = ["white ", "red", "blue", "yellow", "violet"];
 var len = colors.length;
 
 var buttoncontrol = document.getElementById("btn");
